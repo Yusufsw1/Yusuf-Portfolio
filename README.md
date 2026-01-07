@@ -1,37 +1,37 @@
 # Yusuf Portfolio 🚀
+Welcome to my portfolio repository! This is a modern, responsive portfolio website built using Next.js, TypeScript, and Tailwind CSS.
 
-Selamat datang di repositori portofolio saya! Ini adalah situs web portofolio modern dan responsif yang dibangun menggunakan **Next.js**, **TypeScript**, dan **Tailwind CSS**.
-
-Situs ini dirancang untuk memamerkan proyek, keahlian, dan pengalaman saya sebagai pengembang web.
+This site is designed to showcase my projects, technical skills, and professional experience as a web developer.
 
 ## 🌐 Live Demo
-Lihat hasil akhirnya di sini: [yusuf-portfolio-theta.vercel.app](https://yusuf-portfolio-theta.vercel.app)
+Check out the live site here: yusuf-portfolio-theta.vercel.app
 
 ## 🛠️ Tech Stack
-Proyek ini dibangun dengan teknologi terbaru untuk memastikan performa dan pengalaman pengguna yang optimal:
+This project is built with a modern stack to ensure optimal performance and a seamless user experience:
 
 * **Framework:** [Next.js 14/15 (App Router)](https://nextjs.org/)
 * **Bahasa:** [TypeScript](https://www.typescriptlang.org/)
 * **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-* **Komponen UI:** [Shadcn/ui](https://ui.shadcn.com/) (atau sebutkan library lain jika ada)
-* **Animasi:** [Framer Motion](https://www.framer.com/motion/) (Opsional, jika kamu menggunakannya)
+* **Komponen UI:** [Shadcn/ui](https://ui.shadcn.com/)
+* **Animasi:** [Framer Motion](https://www.framer.com/motion/)
 * **Deployment:** [Vercel](https://vercel.com/)
 
-## ✨ Fitur Utama
-* **Responsive Design:** Tampilan optimal di perangkat mobile, tablet, maupun desktop.
-* **Dark/Light Mode:** Mendukung tema gelap dan terang secara otomatis atau manual.
-* **Type Safety:** Dikembangkan dengan TypeScript untuk meminimalisir bug.
-* **Optimized Performance:** Menggunakan fitur optimasi gambar dan font bawaan Next.js.
-* **Clean Architecture:** Struktur folder yang rapi dan mudah untuk dikembangkan lebih lanjut.
+## ✨ Key Features
+* **Responsive Design:** Fully optimized for mobile, tablet, and desktop devices.
+* **Dark/Light Mode:** Seamless support for dark and light themes.
+* **Type Safety:** Developed with TypeScript to ensure code reliability and minimize bugs.
+* **Optimized Performance:** Utilizes Next.js built-in image and font optimization.
+* **Clean Architecture:** Organized folder structure designed for scalability and easy maintenance.
 
 ## 📂 Struktur Folder
 ```text
-├── app/             # Routing dan halaman utama
-├── assets/          # File statis seperti font dan gambar
-├── components/      # Komponen UI yang reusable
-├── config/          # Konfigurasi aplikasi
+├── app/             # Main pages and routing
+├── assets/          # Static files such as fonts and images
+├── components/      # Reusable UI components
+├── config/          # Application configurations
 ├── hooks/           # Custom React hooks
-├── information/     # Data statis (proyek, pengalaman, dll)
-├── lib/             # Fungsi utilitas (utils)
-├── providers/       # Context providers (Theme, dll)
-└── public/          # Aset publik (logo, favicon)
+├── information/     # Static data (projects, experience, etc.)
+├── lib/             # Utility functions (utils)
+├── providers/       # Context providers (Theme, etc.)
+└── public/          # Public assets (logos, favicons)
+
